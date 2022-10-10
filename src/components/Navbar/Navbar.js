@@ -20,6 +20,7 @@ const NavbarStyled = styled.div`
         align-items : center;
 
     h3 {
+        font-family: 'Inter', sans-serif;
         color: #FFF;
         padding : 0 6px;
         margin : 10px;
